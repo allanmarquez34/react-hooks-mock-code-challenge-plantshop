@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "cactus",
+      "image": "https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202234/1222/faux-potted-saguaro-cactus-o.jpg",
+      "price": 13.99,
+      "id": 8
+    },
+    {
+      "name": "slay plant",
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F34%2F2022%2F05%2F05%2Fplant-and-care-for-philodendron-0522.jpg&q=60",
+      "price": 666.99,
+      "id": 9
     }
   ]
 }
